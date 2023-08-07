@@ -1,4 +1,4 @@
-package org.tnsif;
+package org.tnsif.InterfaceDemo;
 
 public interface DebitCard {
 	/*By deafault all the variables insdie an interface is public

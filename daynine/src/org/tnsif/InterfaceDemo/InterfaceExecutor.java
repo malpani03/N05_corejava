@@ -1,4 +1,4 @@
-package org.tnsif;
+package org.tnsif.InterfaceDemo;
 
 //Driver class
 //program to demonstrate on an interface

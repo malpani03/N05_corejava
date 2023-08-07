@@ -1,4 +1,4 @@
-package org.tnsif;
+package org.tnsif.InterfaceDemo;
 
 public class SBIDebitCard implements DebitCard{
 

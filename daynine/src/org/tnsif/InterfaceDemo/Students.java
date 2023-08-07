@@ -1,4 +1,4 @@
-package org.tnsif;
+package org.tnsif.InterfaceDemo;
 
 //Parent interface1
 public interface Students {
