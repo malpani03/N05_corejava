@@ -13,7 +13,7 @@ public interface DebitCard {
 	
 	default void display()
 	{
-		System.out.println("Default method");
+		System.out.println("Default  method");
 	}
 	static void print()
 	{

@@ -9,6 +9,7 @@ package org.tnsif.InterfaceDemo;
  * exactly one abstract method insdie an interface  */
 @FunctionalInterface
 public interface PopCorn {
+	
 	void displayreceipe();
 	//void display();
 

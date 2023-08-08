@@ -19,6 +19,7 @@ public class InterfaceExecutor {
 		
 		
 		College cd=new College();
+		
 		cd.showName();
 		
 
