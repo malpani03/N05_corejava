@@ -1,12 +1,12 @@
 package org.tnsif.InterfaceDemo;
 
 public interface DebitCard {
-	/*By deafault all the variables insdie an interface is public
+	/*By default all the variables inside an interface is public
 	 * static final and if it is final then we must have to initialize 
 	 * value for that variable */
 	long cardno=999888822222L;
-	/*we cant use concreate method inside the interface
-	 * by default,method insdie the interface is abstarct
+	/*we can't use concrete method inside the interface
+	 * by default,method inside the interface is abstract
 	 */
 	void displayCardDetails();
 	//defualt method and static method are new features of java 
