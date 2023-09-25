@@ -38,7 +38,7 @@ public class arrayMax {
 				{
 					System.out.print(arr[i]+" ");
 				}
-				
+				sc.close();
 				
 				
 	}
