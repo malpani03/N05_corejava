@@ -9,7 +9,7 @@ public interface DebitCard {
 	 * by default,method inside the interface is abstract
 	 */
 	void displayCardDetails();
-	//defualt method and static method are new features of java 
+	//default method and static method are new features of java 
 	
 	default void display()
 	{
